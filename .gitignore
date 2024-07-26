@@ -8,3 +8,5 @@ venv
 .coverage
 __pycache__
 .envrc
+flake8_report
+poetry.lock
